@@ -2,7 +2,7 @@
 
 A simple Express server which provides endpoints with some useful data about NBA games. Internally uses [balldontlie API](https://www.balldontlie.io).
 
-## Installation
+## Installing dependencies
 
 ```
 npm install
@@ -11,7 +11,7 @@ npm install
 ## Running
 
 ```
-node main.js
+npm start
 ```
 
 ## Endpoints
