@@ -2,6 +2,8 @@
 
 A simple Express server which provides endpoints with some useful data about NBA games. Internally uses [balldontlie API](https://www.balldontlie.io).
 
+The server should be available on https://nba-api-utils.onrender.com.
+
 ## Installing dependencies
 
 ```
